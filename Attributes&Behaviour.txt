@@ -1,0 +1,19 @@
+Class SavingsAccount
+
+ATTRIBUTES
+-------------------
+AccountType
+AccountHolderName
+AccountHolderAge
+AccountNumber
+AccountBalance
+AccountStatus
+
+
+BEHAVIOUR
+----------------------
+GenerateAccountNumber
+DepositAmount
+WithdrawAmount
+TransferAmount
+Balance
